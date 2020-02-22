@@ -12,10 +12,8 @@
 
 POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.google.com
 
-#### Usage:
+#### Example Usage:
+https://prickly-shield-project3.glitch.me/api/shorturl/3
 
-[this_project_url]/api/shorturl/3
-
-#### Will redirect to:
-
-https://www.freecodecamp.org/forum/
+#### Will Redirect to:
+https://github.com/DariaCode
